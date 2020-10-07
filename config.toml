@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseurl = "https://example.com/"
+baseurl = "https://stoic-edison-2d35f5.netlify.app/"
 languageCode = "en"
 
 title = "Federico Blasi"
